@@ -1,3 +1,4 @@
 welocome servicenow studio
 i created on bujji mailid
 
+The repo cannot be accessed. Check URL, username, and password, and confirm user has read, write, and create branch access
